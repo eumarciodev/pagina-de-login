@@ -1,5 +1,11 @@
 # Página de login web site
 
+## Captura
+
+<img src="login.PNG">
+
+## Sobre
+
 Esta é uma página de login web site simples criada com HTML, CSS e JavaScript. Esta página não é afiliada ao GitHub, é apenas um exercício para praticar habilidades de front-end.
 
 ## Funcionalidades

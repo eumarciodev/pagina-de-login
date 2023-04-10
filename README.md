@@ -25,7 +25,7 @@ Esta é uma página de login web site simples criada com HTML, CSS e JavaScript.
 
 1. Clone este repositório:
 
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone https://github.com/eumarciodev/pagina-de-login.git`
 
 2. Abra o arquivo index.html em seu navegador
 
